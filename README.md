@@ -8,6 +8,22 @@ I lead a team of four on this project as part of my final year at CTU Training S
 
 > **Note:** This is a showcase repository. The source code is kept private, and this page covers the design, features and architecture.
 
+
+
+
+
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Sign in](screenshots/01-sign-in.png) | ![Profile](screenshots/02-profile.png) |
+| Sign in with your SA ID number | Verified traveller profile and travel stats |
+| ![Your details](screenshots/03-your-details.png) | ![Add a trip](screenshots/04-add-a-trip.png) |
+| Identity details locked after verification | Add a trip with a booking reference |
+
+![Trip history](screenshots/05-trip-history.png)
+*Trip history with route, gate, seat, cabin and booking reference*
 ## The problem
 
 A passenger shows their ID and booking several times before reaching the gate: at check-in, at security and again at boarding. Every check is manual, slow and repeats the one before it.
