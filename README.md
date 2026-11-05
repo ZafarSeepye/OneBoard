@@ -12,17 +12,16 @@ I lead a team of four on this project as part of my final year at CTU Training S
 
 
 
-
 ## Screenshots
 
 | | |
 |---|---|
-| ![Sign in](screenshots/01-sign-in.png) | ![Profile](screenshots/02-profile.png) |
+| ![Sign in](OneBoard_screenshots/screenshots/01-sign-in.png) | ![Profile](OneBoard_screenshots/screenshots/02-profile.png) |
 | Sign in with your SA ID number | Verified traveller profile and travel stats |
-| ![Your details](screenshots/03-your-details.png) | ![Add a trip](screenshots/04-add-a-trip.png) |
+| ![Your details](OneBoard_screenshots/screenshots/03-your-details.png) | ![Add a trip](OneBoard_screenshots/screenshots/04-add-a-trip.png) |
 | Identity details locked after verification | Add a trip with a booking reference |
 
-![Trip history](screenshots/05-trip-history.png)
+![Trip history](OneBoard_screenshots/screenshots/05-trip-history.png)
 *Trip history with route, gate, seat, cabin and booking reference*
 ## The problem
 
