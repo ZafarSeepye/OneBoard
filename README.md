@@ -8,19 +8,6 @@ I lead a team of four on this project as part of my final year at CTU Training S
 
 > **Note:** This is a showcase repository. The source code is kept private, and this page covers the design, features and architecture.
 
-## Screenshots
-
-| | |
-|---|---|
-| ![Login](screenshots/01-login.png) | ![Boarding pass](screenshots/02-boarding-pass.png) |
-| Login and registration | Digital QR boarding pass |
-| ![Journey tracker](screenshots/03-journey-tracker.png) | ![Checkpoint scan](screenshots/04-checkpoint-scan.png) |
-| Live journey tracker | Checkpoint verification |
-| ![Admin console](screenshots/05-admin-console.png) | ![Notification](screenshots/06-notification.png) |
-| Admin console | Live flight notifications |
-
-<p align="center"><img src="screenshots/07-mobile.png" width="280" alt="Mobile view"><br>Mobile view</p>
-
 ## The problem
 
 A passenger shows their ID and booking several times before reaching the gate: at check-in, at security and again at boarding. Every check is manual, slow and repeats the one before it.
